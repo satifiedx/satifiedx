@@ -67,4 +67,4 @@ I'm always open to interesting ideas! I am currently looking for help with my **
   <img src="https://komarev.com/ghpvc/?username=satifiedx&label=Profile_Views&color=0e75b6&style=flat" alt="satifiedx profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=telethon%20gooning%20pro&section=footer&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=telethon&section=footer&textBg=false" />
